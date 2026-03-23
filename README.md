@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvmohan&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvmohan" /> </p>
 
-- 📫 How to reach me **mailtodhruvmohan@gmail.com**
+- 📫 How to reach me **job.dhruvmohan@gmail.com**
 
 - ⚡ Fun fact - **I think I am funny**
 
